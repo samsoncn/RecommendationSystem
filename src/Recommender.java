@@ -1,4 +1,11 @@
-public class recommender{
+import java.util.LinkedList;
+
+public class Recommender extends User{
+
+    private int userId;
+    private String userName;
+    private LinkedList frds;
+
     private int id;
     private String categories;
     private String name;
@@ -7,7 +14,11 @@ public class recommender{
     private int like;
     private int nope;
 
-    public recommender(int id, String categories, String name, int popularity, int calories, int like, int nope){
+    public Recommender(int userId, String userName, LinkedList frds, int id, String categories, String name,
+                       int popularity, int calories, int like, int nope){
+
+        super(userId, userName, frds);
+
         this.id = id;
         this.categories = categories;
         this.name = name;
@@ -72,6 +83,14 @@ public class recommender{
 
     public void setNope(int nope) {
         this.nope = nope;
+    }
+
+    public void addLike() {
+        this.like += 1;
+    }
+
+    public void addNope() {
+        this.nope += 1;
     }
 
     

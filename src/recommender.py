@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 col_list = ["id", "categories", "name", "popularity", "calories", "like", "nope"]
-foodlist = pd.read_csv('../data/foodList.csv',  usecols=col_list)
+foodlist = pd.read_csv('../data/foodList.csv', usecols=col_list)
 
 # foodlist.catergoies = foodlist.catergoies.str.lower()
 
@@ -21,7 +21,7 @@ for x in foodlist:
             maxNum = max(max_list)
             # print(maxNum)
             #     
-        if x == "nope":
+        elif x == "nope":
             nope_list.append(item)
             print(nope_list)
             # find the min Nope value from the list 
