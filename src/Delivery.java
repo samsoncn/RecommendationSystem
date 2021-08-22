@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class Delivery extends User {
+public class Delivery extends UserAccount {
 
     private int userId;
     private String userName;

@@ -1,12 +1,12 @@
-﻿userId,categories,name,popularity,calories,like,nope,,
-13123,chinese,congee,5,110,3,27,,
-23411,japanese,sushi,4,250,5,3,,
-12312,japanese,ramen,3,600,3,42,,
-97364,thai,pad thai,1,400,10,21,,
-32423,korean,seafood tofu soup,2,360,14,8,,
-56534,weastern,steak,4,200,28,10,,
-89454,weastern,ribs,5,250,24,9,,
-12324,korean,cold noodles,3,215,8,9,,
+﻿userId,categories,name,popularity,calories,like,nope,ingredient,source
+13123,chinese,fried rice,5,110,3,27,"2 cups enriched white rice 4 cups water, ⅔ cup chopped baby carrots, ½ cup frozen green peas, 2 tablespoons vegetable oil, 2 eggs soy sauce to taste, 2 tablespoons sesame oil, to taste",https://www.allrecipes.com/recipe/79543/fried-rice-restaurant-style/
+23411,japanese,beef udon,4,250,5,3,"1 Tbsp neutral-flavored oil (vegetable, rice bran, canola, etc), ½ negi (long green onion) (you can also use ½ leek or 2 scallions/green onions), ½ lb thinly sliced beef (chuck or rib eye) (ribeye or top sirloin) ▢2 servings udon noodles (180 g dry udon noodles; 500 g frozen/boiled udon noodles)",https://www.justonecookbook.com/beef-udon/
+12312,japanese,ramen,3,600,3,42,"2 chicken breasts (boneless, skin-on)* kosher salt and freshly-ground black pepper, to season 1 Tbsp unsalted butter 2 tsp sesame or vegetable oil 2 tsp fresh ginger, minced 1 Tbsp fresh garlic, minced 3 Tbsp low-sodium soy sauce 2 Tbsp mirin 4 cups rich chicken stock 1 oz dried shitake mushrooms (or 1/2 cup fresh) 1–2 tsp sea salt, to taste 2 large eggs 1/2 cup scallions, sliced 2 (3 oz) packs dried ramen noodles optional: fresh jalapeño or chili slices, for serving",https://www.forkknifeswoon.com/simple-homemade-chicken-ramen/
+97364,thai,pad thai,1,400,10,21,"8 ounces flat rice noodles , 3 Tablespoons oil , 3 cloves garlic , minced , 8 ounces uncooked shrimp, chicken, or extra-firm tofu , cut into small pieces , 2 eggs , 1 cup fresh bean sprouts, 1 red bell pepper , thinly sliced , 3 green onions , chopped , 1/2 cup dry roasted peanuts , 2 limes , 1/2 cup Fresh cilantro , chopped",https://tastesbetterfromscratch.com/pad-thai/
+32423,korean,seafood tofu soup,2,360,14,8,"1 package 11 ounces sundubu (extra soft/silken tofu), 2 ounces beef or pork rib eye, sirloin, pork loin or pork belly, 7 - 8 pieces of seafood assortment shrimp, mussels, clams, and/or oysters , ½ small zucchini 2 - 3 ounces, ¼ onion 2 - 3 ounces , 1 scallion , 1 tablespoon red chili pepper flakes gochugaru- adjust to taste. , 1 teaspoon sesame oil use a little more if using more gochugaru , 1 teaspoon garlic , 1 teaspoon soy sauce , salt to taste about ½ teaspoon , pinch pepper , 1 cup anchovy broth or other broth or water , 1 egg optional",https://www.koreanbapsang.com/haemul-sundubu-jjigae-seafood-soft-tofu/
+56534,western,steak,4,200,28,10,"2 lbs New York Strip Steaks (2 steaks) or Ribeye or Top Sirloin Steaks (1 lb each steak, 1 1/4” thick) 1/2 Tbsp vegetable oil or any high heat cooking oil like canola or extra light olive oil 1 1/2 tsp sea salt 1 tsp black pepper freshly ground 2 Tbsp unsalted butter 2 cloves garlic peeled and quartered 1 sprig fresh rosemary",https://natashaskitchen.com/pan-seared-steak/
+89454,western,Barbecue ribs,5,250,24,9,1/4 cup brown sugar 2 tablespoons chili powder Kosher salt and freshly ground black pepper 1 teaspoon dried oregano 1/2 teaspoon cayenne pepper 1/2 teaspoon garlic powder 1/2 teaspoon onion powder 2 racks baby back ribs 1 cup low-sodium chicken broth 2 tablespoons apple cider vinegar 1 cup barbecue sauce,https://www.foodnetwork.com/recipes/katie-lee/best-barbecue-ribs-ever-3364398
+12324,italian,carbonara,3,215,8,9,"3 large free-range egg yolks 40 g Parmesan cheese, plus extra to serve 1 x 150 g piece of higher-welfare pancetta 200 g dried spaghetti 1 clove of garlic extra virgin olive oil",https://www.jamieoliver.com/recipes/pasta-recipes/gennaro-s-classic-spaghetti-carbonara/
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,

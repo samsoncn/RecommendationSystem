@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class Recommender extends User{
+public class Recommender extends UserAccount {
 
     private int userId;
     private String userName;
